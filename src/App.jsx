@@ -1,6 +1,6 @@
-import footer from './footer';
-import header from 'header.jsx';
-import body from 'body.jsx';
+import Footer from './footer.jsx';
+import Header from './header.jsx';
+import Body from './body.jsx';
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
     <header/>,
     <body/>,
     <footer/>
-  )
+  );
 }
 
 export default App

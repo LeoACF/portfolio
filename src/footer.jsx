@@ -1,6 +1,8 @@
 
-function footer(){
-    <footer></footer>
+function Footer(){
+    return (
+        <footer></footer>
+    );
 }
 
-export default footer
+export default Footer
