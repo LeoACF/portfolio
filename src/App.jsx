@@ -1,10 +1,9 @@
-import Footer from './footer.jsx';
-import Header from './header.jsx';
-import Body from './body.jsx';
+import Footer from './Footer.jsx';
+import Header from './Header.jsx';
+import Body from './Body.jsx';
 
 function App() {
-
-  return (
+  return(
     <header/>,
     <body/>,
     <footer/>
